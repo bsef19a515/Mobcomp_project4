@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="page">Login Page</string>
+    <string name="email">Enter Email Address:</string>
+    <string name="pwd">Enter Password:</string>
+
+
+
+</resources>
